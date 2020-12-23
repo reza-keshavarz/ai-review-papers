@@ -11,11 +11,13 @@ New papers will be added continuously, to make this an always-update source for 
 Feel free to suggest the good papers you encounter by opening an issue.
 
 
-## Table of content
+### Applications
+**Recommender systems**
+* [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435) - ACM - 2019
 
 
 ### Models
-### Reinforcement Learning
-### Recurrent Neural Networks
-### Generative Models
-### Transfer Learning
+**Reinforcement Learning**
+**Recurrent Neural Networks**
+**Generative Models**
+**Transfer Learning**
