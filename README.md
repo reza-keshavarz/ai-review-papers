@@ -11,11 +11,11 @@ New papers will be added continuously, to make this an always-update source for 
 Feel free to suggest the good papers you encounter by opening an issue.
 
 
-# Table of content
+## Table of content
 
 
-# Models
-## Reinforcement Learning
-## Recurrent Neural Networks
-## Generative Models
-## Transfer Learning
+### Models
+### Reinforcement Learning
+### Recurrent Neural Networks
+### Generative Models
+### Transfer Learning
