@@ -13,7 +13,7 @@ Feel free to suggest the good papers you encounter by opening an issue.
 
 ### Applications
 **Recommender systems**
-* [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435) - ACM - 2019
+* [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435) - 2019
 
 
 ### Models
@@ -22,5 +22,6 @@ Feel free to suggest the good papers you encounter by opening an issue.
 **Recurrent Neural Networks**
 
 **Generative Models**
+* [A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications](https://arxiv.org/abs/2001.06937) - 2015
 
 **Transfer Learning**
