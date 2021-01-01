@@ -14,6 +14,8 @@ Feel free to suggest the good papers you encounter by opening an issue.
 ### Applications
 **Recommender systems**
 * [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435) - 2019
+* [A Review on Recommendation Systems: Context-aware to Social-based](https://arxiv.org/abs/1811.11866) - 2018
+
 
 
 ### Models
@@ -23,5 +25,6 @@ Feel free to suggest the good papers you encounter by opening an issue.
 
 **Generative Models**
 * [A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications](https://arxiv.org/abs/2001.06937) - 2015
+* [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691)
 
 **Transfer Learning**
