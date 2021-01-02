@@ -16,6 +16,9 @@ Feel free to suggest the good papers you encounter by opening an issue.
 * [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435) - 2019
 * [A Review on Recommendation Systems: Context-aware to Social-based](https://arxiv.org/abs/1811.11866) - 2018
 
+**Computer Vision**
+* [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/abs/2001.05566) - 2020
+
 
 
 ### Models
