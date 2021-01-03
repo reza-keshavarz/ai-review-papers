@@ -31,3 +31,8 @@ Feel free to suggest the good papers you encounter by opening an issue.
 * [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691)
 
 **Transfer Learning**
+
+
+### Other topics
+**Optimization**  
+* [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)
