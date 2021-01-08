@@ -25,6 +25,7 @@ Feel free to suggest the good papers you encounter by opening an issue.
 **Reinforcement Learning**
 
 **Sequence Models**
+* [A Survey on Transformer Models in Machine Learning](https://hannes-stark.com/assets/transformer_survey.pdf)
 
 **Generative Models**
 * [A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications](https://arxiv.org/abs/2001.06937) - 2015
