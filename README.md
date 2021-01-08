@@ -24,7 +24,7 @@ Feel free to suggest the good papers you encounter by opening an issue.
 ### Models
 **Reinforcement Learning**
 
-**Recurrent Neural Networks**
+**Sequence Models**
 
 **Generative Models**
 * [A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications](https://arxiv.org/abs/2001.06937) - 2015
