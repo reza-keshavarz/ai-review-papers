@@ -10,15 +10,22 @@ New papers will be added continuously, to make this an always-update source for 
 
 Feel free to suggest the good papers you encounter by opening an issue.
 
+**State of the art**
+
+Keep in mind that papers listed here, and the techniques they refer to, are not necessarily the state of the art. The goal here is to broaden the horizon of a newbie researcher. However, it never hurts to know about cool stuff, whether they come handy right away or not.
+
+
 
 ### Applications
-**Recommender systems**
+**Recommender Systems**
 * [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435) - 2019
 * [A Review on Recommendation Systems: Context-aware to Social-based](https://arxiv.org/abs/1811.11866) - 2018
 
 **Computer Vision**
 * [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/abs/2001.05566) - 2020
 
+**Natural Language Processing**
+* [Stacked denoising autoencoders for sentiment analysis: a review](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1212) - 2017
 
 
 ### Models
